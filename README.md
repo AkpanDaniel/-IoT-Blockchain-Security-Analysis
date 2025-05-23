@@ -39,6 +39,8 @@ Threat Mitigation Effectiveness – Pie chart shows 71.7% of threats were mitiga
 Attack Severity by Threat Type – Box plot reveals which threats are most severe.
 
 Processing Time vs Data Size – Scatter plot visualizes how larger data leads to longer processing.
+![iot](https://github.com/user-attachments/assets/2ff6d712-3eaa-4f0f-aa97-ef3eb93b2088)
+
 
 Consensus Mechanism Analysis – Compares blockchain transaction time and energy use by consensus type.
 
